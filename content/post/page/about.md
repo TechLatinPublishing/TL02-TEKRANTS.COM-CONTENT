@@ -2,6 +2,8 @@
 title: About me 0
 subtitle: Why you'd want to go on a date with me
 comments: false
+tags: ["example", "code"]
+draft: true
 ---
 
 My name is Inigo Montoya. I have the following qualities:

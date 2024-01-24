@@ -1,16 +1,18 @@
 ---
-title: About me 2
-subtitle: Why you'd want to go on a date with me
+title: Using MERMAID.js 
+subtitle: A great way to display graphics in MD
 comments: false
+draft: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+mermaid.js is a great tool for doing graphics
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Mermaid.js
 
-What else do you need?
+Some interesting resources
 
-### my history
+[mermaid.js](https://mermaid.js.org/)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### EXAMPLES
+

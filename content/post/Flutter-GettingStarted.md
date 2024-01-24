@@ -1,6 +1,7 @@
 ---
 title: Flutter-Getting-Started...  On AWS
 date: 2022-01-15
+draft: true
 ---
 
 Flutter examples seem to revolve around using FireBase.  I am an AWS Arch and felt a need to demonstrate AWS backend solutions.

@@ -3,6 +3,7 @@ title: TODO - GoogleAdds
 date: 2022-01-05
 weight: 110
 summary: Advertising project
+draft: true
 ---
 Adding Advertising to site
 
