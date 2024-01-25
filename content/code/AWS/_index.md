@@ -6,7 +6,7 @@ comments: true
 summary: "this is the summ for EX002"
 weight: 300
 tags: ["AWS", "code"]
-draft: true
+draft: false
 ---
 Assorted AWS Topics
 
