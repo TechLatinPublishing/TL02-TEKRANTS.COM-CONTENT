@@ -1,9 +1,9 @@
 ---
-title: ESP32 Topics
+title: ESP32 Topics xx
 subtitle: A SoC ( System on a Chip )
 type: code
 comments: true
-summary: "this is the summ for EX002"
+summary: "this is the summ for EX002 xx"
 weight: 300
 tags: ["ESP32", "code"]
 draft: true
