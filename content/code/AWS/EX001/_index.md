@@ -5,6 +5,7 @@ subtitle: To Do is to Learn
 comments: false
 weight: 30
 tags: ["AWS", "cloud"]
+draft: true
 ---
 This is the Challenge page
 index

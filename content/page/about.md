@@ -1,13 +1,13 @@
 ---
-title: About CodeSausage.com
+title: About TekRants.com
 subtitle: Mindless stuff that I am doing in Golang, AWS, Flutter, BlockChain and IoT ESP32..  and assorted other stuff
-type: chal
+type: page
 comments: false
+draft: true
 ---
-vy was here
 
 
-My name is vincent youmans...  and I experiment with Tech often. Assuming people are interested, I like to document what I am doing:
+Just a log of mindless rants about technology
 
 
 ### Focus
@@ -15,8 +15,13 @@ My name is vincent youmans...  and I experiment with Tech often. Assuming people
     - https://go.dev/
     - https://github.com/avelino/awesome-go
 
+- RUST
+    - https://www.rust-lang.org/
+
 - AWS - Amazon Web Services
     - https://aws.amazon.com/
+
+- GenerativeAI
 
 - HUGO - CMS
     -  https://gohugo.io/
