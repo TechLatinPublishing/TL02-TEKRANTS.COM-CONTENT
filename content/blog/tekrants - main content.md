@@ -7,3 +7,7 @@ draft: false
 ---
 
 How I became a golang dev...   and the opportunities that it has created
+
+
+
+hi
