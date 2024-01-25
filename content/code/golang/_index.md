@@ -6,6 +6,7 @@ comments: true
 summary: "this is the summ for EX002"
 weight: 100
 tags: ["GoLang", "Challenge"]
+draft: true
 ---
 Assorted coding challenges.  Using test cases and Dockerizing for fun
 

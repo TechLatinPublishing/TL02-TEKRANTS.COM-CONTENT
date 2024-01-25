@@ -6,6 +6,7 @@ comments: true
 summary: "this is the summ for EX002"
 weight: 300
 tags: ["ESP32", "code"]
+draft: true
 ---
 ESP32 are a SoC with WiFi and BLE cooked into the actual silicon.
 
